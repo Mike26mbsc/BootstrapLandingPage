@@ -1,4 +1,4 @@
-## Ultimately Bootstrap seemed like the best place to start. 
+## Bootstrap Landing Page 
 ### Lets Dive Right in!
 Put this in an html file on the server
 
